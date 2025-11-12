@@ -69,23 +69,37 @@ The system includes:
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
-
-| S.No | Fiber Length (km) | Optical Power (Watts) | Optical Power (dBm) | Max Q Factor | Min BER | Eye Height | Decision Instant (Max Q / Min BER) |
-|------|-------------------|------------------------|----------------------|--------------|---------|-------------|-------------------------------------|
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
-|      |                   |                        |                      |              |         |             |                                     |
+![WhatsApp Image 2025-11-12 at 07 23 38_a19cf76b](https://github.com/user-attachments/assets/32349afc-f970-4e8f-b1d6-84392c786291)
 
 ---
 
 ## Graphs
 
-*(Insert plots of Optical Power, Q Factor, and BER vs. Fiber Length here)*
+<img width="912" height="975" alt="Screenshot 2025-11-12 072050" src="https://github.com/user-attachments/assets/566a99a6-5102-48bc-9e9a-da70cd664c39" />
 
+---
+---
+
+<img width="912" height="975" alt="Screenshot 2025-11-12 072143" src="https://github.com/user-attachments/assets/c07e2dac-efe7-420a-9ce3-c07f8af41f87" />
+
+---
+---
+
+<img width="912" height="975" alt="Screenshot 2025-11-12 072251" src="https://github.com/user-attachments/assets/e25a0844-1a26-4026-aad6-9584f15d2a96" />
+
+---
 ---
 
 ## RESULT
 
-*(Summarize key findings from simulation and analysis)*
+**Result:**
+The optical communication system was successfully simulated using **OptiPerformer**.
+As the **fiber length increased** from **50 km to 150 km**, the following trends were observed:
+
+* **Received optical power** decreased due to fiber attenuation.
+* **Q-factor** gradually decreased, indicating signal quality degradation.
+* **Bit Error Rate (BER)** increased with distance, showing higher error probability.
+* The **eye diagram** became more closed at longer fiber lengths, confirming dispersion and noise effects.
+
+Hence, the simulation verified that **optical signal performance deteriorates with increasing fiber length** due to attenuation and dispersion losses.
+
