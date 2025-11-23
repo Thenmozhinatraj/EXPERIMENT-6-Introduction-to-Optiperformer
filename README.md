@@ -1,8 +1,11 @@
 
 Exp 6 Simulation of Optical Communication System
-## Introduction to OptiPerformer 
-## Objective
+
+## AIM:
 Download and install OptiPerformer software on your computer and run a sample file.
+
+## EQUIPMENTS REQUIRED:
+Optisystem Software – OptiPerformer 22.0
 
 ---
 
@@ -37,8 +40,9 @@ and the message “Calculation Finished!” will appear when the simulation runs
 7.	Double click on the optical power meter and the BER analyzer and move the windows as necessary for clarity. Check the box next to “Show Eye Diagram” in the BER window. The optical power meter shows the power at the input to the photodiode in both watts and dBm. The BER window displays the “eye diagram” and several quantities including the “Max Q
 Factor” and the “Min BER”.
 8.	The simulation is set to run 5 “iterations”, with the fiber length varying from 50 to 150 km in 5 steps. The index is displayed in the upper right corner of the layout. To step through the iterations, use the forward and reverse buttons in the lower left of the window. Note the change in received power and BER display (eye diagram, Q factor and BER) with fiber length.
+---
 
-<img width="945" height="484" alt="image" src="https://github.com/user-attachments/assets/c4378f50-a1b1-4698-88ea-e0783a41aa9f" />
+<img width="710" height="387" alt="image" src="https://github.com/user-attachments/assets/c4378f50-a1b1-4698-88ea-e0783a41aa9f" />
 
 ---
 
@@ -60,21 +64,21 @@ Factor” and the “Min BER”.
 
 ## Model Graph
 
-<img width="1123" height="387" alt="image" src="https://github.com/user-attachments/assets/b0e9a32b-25a1-4003-a9d8-ab7fcb3c2809" />
+<img width="710" height="387" alt="image" src="https://github.com/user-attachments/assets/b0e9a32b-25a1-4003-a9d8-ab7fcb3c2809" />
 
 ## Graphs
 
-<img width="912" height="975" alt="Screenshot 2025-11-12 072050" src="https://github.com/user-attachments/assets/566a99a6-5102-48bc-9e9a-da70cd664c39" />
+<img width="710" height="387" alt="Screenshot 2025-11-12 072050" src="https://github.com/user-attachments/assets/566a99a6-5102-48bc-9e9a-da70cd664c39" />
 
 ---
 ---
 
-<img width="912" height="975" alt="Screenshot 2025-11-12 072143" src="https://github.com/user-attachments/assets/c07e2dac-efe7-420a-9ce3-c07f8af41f87" />
+<img width="710" height="387" alt="Screenshot 2025-11-12 072143" src="https://github.com/user-attachments/assets/c07e2dac-efe7-420a-9ce3-c07f8af41f87" />
 
 ---
 ---
 
-<img width="912" height="975" alt="Screenshot 2025-11-12 072251" src="https://github.com/user-attachments/assets/e25a0844-1a26-4026-aad6-9584f15d2a96" />
+<img width="710" height="387" alt="Screenshot 2025-11-12 072251" src="https://github.com/user-attachments/assets/e25a0844-1a26-4026-aad6-9584f15d2a96" />
 
 ---
 ---
