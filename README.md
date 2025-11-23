@@ -58,7 +58,8 @@ Factor” and the “Min BER”.
 ## Tabulation
 
 **Transmission Analysis Across Fiber Lengths**
-![WhatsApp Image 2025-11-12 at 07 23 38_a19cf76b](https://github.com/user-attachments/assets/32349afc-f970-4e8f-b1d6-84392c786291)
+
+![513039196-32349afc-f970-4e8f-b1d6-84392c786291](https://github.com/user-attachments/assets/ce240629-32c1-4fef-8f2e-3acc7581bede)
 
 ---
 
